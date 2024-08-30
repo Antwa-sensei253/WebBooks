@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "note-taker": "file:note-taker"
+  }
+}
